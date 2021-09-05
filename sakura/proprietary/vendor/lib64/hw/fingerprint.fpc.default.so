@@ -2,13 +2,13 @@
 <html class="" lang="en">
 <head prefix="og: http://ogp.me/ns#">
 <meta charset="utf-8">
-<link rel="preload" href="/assets/application_utilities-0c28efa4c0170aacae2e11158030d231a0cf55972520dd59eb03a06a0e23196c.css" as="style" type="text/css" nonce="NsgSvdHlHNi3XGcfijG/Fw==">
-<link rel="preload" href="/assets/application-817efea7eff0957a2c09a7ed38872158531b40ab377b59e23681cb2e35820d93.css" as="style" type="text/css" nonce="NsgSvdHlHNi3XGcfijG/Fw==">
-<link rel="preload" href="/assets/highlight/themes/white-a5a748e3fb932096ef2cc62f8a4c58727c6f0cdd1ae7a28c747f56d74ad27306.css" as="style" type="text/css" nonce="NsgSvdHlHNi3XGcfijG/Fw==">
+<link rel="preload" href="/assets/application_utilities-0c28efa4c0170aacae2e11158030d231a0cf55972520dd59eb03a06a0e23196c.css" as="style" type="text/css" nonce="pdgQQp7zlZnS98xKqQSZug==">
+<link rel="preload" href="/assets/application-817efea7eff0957a2c09a7ed38872158531b40ab377b59e23681cb2e35820d93.css" as="style" type="text/css" nonce="pdgQQp7zlZnS98xKqQSZug==">
+<link rel="preload" href="/assets/highlight/themes/white-a5a748e3fb932096ef2cc62f8a4c58727c6f0cdd1ae7a28c747f56d74ad27306.css" as="style" type="text/css" nonce="pdgQQp7zlZnS98xKqQSZug==">
 <link crossorigin="" href="snowplow.trx.gitlab.net" rel="preconnect">
 
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
-<script nonce="Ma9EgR/n/0KPP77UeeOLLw==">
+<script nonce="Lt1M5foIzg8nwTW4aw7jag==">
 //<![CDATA[
 var gl = window.gl || {};
 gl.startup_calls = {"":{}};
@@ -31,7 +31,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"JqWMscXqD3yB/R7COGtQ15X4oALepr9o2lNnZd+9+85j3ePpqzrWdY/w3dIL0rlSibpypKV4tJwqfwLAE80b3w==","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"mP/PoBtTG0SppvhVjLPeuj9/dsw3EilfKccD6Xq0KAKJuR3Jd2aFnAUEe4Jc7oszDtIs/cC8+5HF/M6jJeGtKg==","x-gitlab-feature-category":"source_code_management"};
   const url = `https://gitlab.com/api/graphql`
 
   const opts = {
@@ -85,7 +85,7 @@ if (gl.startup_graphql_calls && window.fetch) {
 
 
 <link rel="stylesheet" media="print" href="/assets/highlight/themes/white-a5a748e3fb932096ef2cc62f8a4c58727c6f0cdd1ae7a28c747f56d74ad27306.css" />
-<script nonce="Ma9EgR/n/0KPP77UeeOLLw==">
+<script nonce="Lt1M5foIzg8nwTW4aw7jag==">
 //<![CDATA[
 document.querySelectorAll('link[media="print"]').forEach(linkTag => {
   linkTag.setAttribute('data-startupcss', 'loading');
@@ -96,34 +96,34 @@ document.querySelectorAll('link[media="print"]').forEach(linkTag => {
 //]]>
 </script>
 
-<script nonce="Ma9EgR/n/0KPP77UeeOLLw==">
+<script nonce="Lt1M5foIzg8nwTW4aw7jag==">
 //<![CDATA[
 window.gon={};gon.features={"refactorBlobViewer":false,"refactorTextViewer":false,"consolidatedEditButton":false};gon.licensed_features={"fileLocks":true};
 //]]>
 </script>
 
-<script src="/assets/webpack/runtime.75f47ba8.bundle.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/main.0ea95128.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/sentry.15f75f4a.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
+<script src="/assets/webpack/runtime.75f47ba8.bundle.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/main.0ea95128.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/sentry.15f75f4a.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
 
 
-<script src="/assets/webpack/graphql.f82a5a48.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/commons-globalSearch-pages.admin.abuse_reports-pages.admin.groups.show-pages.dashboard.todos.index-p-d7123453.916e14d8.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/shortcutsBundle.182d03bc.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/commons-pages.groups.boards-pages.groups.details-pages.groups.epic_boards-pages.groups.show-pages.gr-90627909.2a7808f1.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/commons-pages.admin.subscriptions.show-pages.ide-pages.projects-pages.projects.activity-pages.projec-14818fd6.cd8b263d.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/commons-pages.projects-pages.projects.activity-pages.projects.alert_management.details-pages.project-071bd857.db00174a.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/commons-pages.admin.topics.edit-pages.admin.topics.new-pages.groups.epics.index-pages.groups.epics.n-1d997a0c.34c708f5.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/commons-pages.admin.subscriptions.show-pages.projects.blob.show-pages.projects.forks.new-pages.proje-d1936cbe.7489af1d.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.edit-pages.projects.sni-42df7d4c.19d07b49.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/commons-pages.projects.blame.show-pages.projects.blob.edit-pages.projects.blob.new-pages.projects.bl-c6edf1dd.354cf6e3.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.show-pages.projects.tre-c684fcf6.8eab08a4.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.92f7276f.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
-<script src="/assets/webpack/pages.projects.blob.show.ddf995ab.chunk.js" defer="defer" nonce="Ma9EgR/n/0KPP77UeeOLLw=="></script>
+<script src="/assets/webpack/graphql.f82a5a48.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/commons-globalSearch-pages.admin.abuse_reports-pages.admin.groups.show-pages.dashboard.todos.index-p-d7123453.916e14d8.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/shortcutsBundle.182d03bc.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/commons-pages.groups.boards-pages.groups.details-pages.groups.epic_boards-pages.groups.show-pages.gr-90627909.2a7808f1.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/commons-pages.admin.subscriptions.show-pages.ide-pages.projects-pages.projects.activity-pages.projec-14818fd6.cd8b263d.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/commons-pages.projects-pages.projects.activity-pages.projects.alert_management.details-pages.project-071bd857.db00174a.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/commons-pages.admin.topics.edit-pages.admin.topics.new-pages.groups.epics.index-pages.groups.epics.n-1d997a0c.34c708f5.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/commons-pages.admin.subscriptions.show-pages.projects.blob.show-pages.projects.forks.new-pages.proje-d1936cbe.7489af1d.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.edit-pages.projects.sni-42df7d4c.19d07b49.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/commons-pages.projects.blame.show-pages.projects.blob.edit-pages.projects.blob.new-pages.projects.bl-c6edf1dd.354cf6e3.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.show-pages.projects.tre-c684fcf6.8eab08a4.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.92f7276f.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
+<script src="/assets/webpack/pages.projects.blob.show.ddf995ab.chunk.js" defer="defer" nonce="Lt1M5foIzg8nwTW4aw7jag=="></script>
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="jtcpJxzxB0aI6HrMvruTxUEaFx4JemV2w5OLt97uvpnLr0Z/ciHeT4bludyNAnpAXVjFuHKkboIzv+4SEp5eiA==" />
-<meta name="csp-nonce" content="Ma9EgR/n/0KPP77UeeOLLw==" />
+<meta name="csrf-token" content="caZC4b85ZhF2gJdFoCLPGhKNjixrXImA0ZWTxBVf59xg4JCI0wz4ydoiFJJwf5qTIyDUHZzyW049rl6OSgpi9A==" />
+<meta name="csp-nonce" content="Lt1M5foIzg8nwTW4aw7jag==" />
 <meta name="action-cable-url" content="/-/cable" />
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 <meta content="#292961" name="theme-color">
@@ -138,7 +138,7 @@ window.gon={};gon.features={"refactorBlobViewer":false,"refactorTextViewer":fals
 
 
 
-<script nonce="Ma9EgR/n/0KPP77UeeOLLw==">
+<script nonce="Lt1M5foIzg8nwTW4aw7jag==">
 //<![CDATA[
 ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
 p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
@@ -159,7 +159,7 @@ gl.snowplowPseudonymizedPageUrl = null;
 
 <body class="ui-indigo tab-width-8 gl-browser-generic gl-platform-other" data-find-file="/ItsVixano/proprietary_vendor_xiaomi/-/find_file/lineage-18.1" data-namespace-id="7892375" data-page="projects:blob:show" data-page-type-id="lineage-18.1/sakura-common/proprietary/vendor/lib64/hw/fingerprint.fpc.default.so" data-project="proprietary_vendor_xiaomi" data-project-id="29421356">
 
-<script nonce="Ma9EgR/n/0KPP77UeeOLLw==">
+<script nonce="Lt1M5foIzg8nwTW4aw7jag==">
 //<![CDATA[
 gl = window.gl || {};
 gl.client = {"isGeneric":true,"isOther":true};
@@ -830,7 +830,7 @@ Download (196 KB)
 </button>
 </div>
 <div class="modal-body">
-<form class="js-quick-submit js-upload-blob-form" data-method="put" action="/ItsVixano/proprietary_vendor_xiaomi/-/update/lineage-18.1/sakura-common/proprietary/vendor/lib64/hw/fingerprint.fpc.default.so" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="2s2lVjSDJuj+TTsMAx4YtP9gYAo9qsnpILLNsMPYIuCftcoOWlP/4fBA+Bwwp/Ex4yKyrEZ0wh3QnqgVD6jC8Q==" /><div class="dropzone">
+<form class="js-quick-submit js-upload-blob-form" data-method="put" action="/ItsVixano/proprietary_vendor_xiaomi/-/update/lineage-18.1/sakura-common/proprietary/vendor/lib64/hw/fingerprint.fpc.default.so" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="ropo/pd2DTDq1Hx8PHzreWskTE8J9WyUzCkrGdBNQiy/zLqX+0OT6EZ2/6vsIb7wWokWfv5bvlogEuZTjxjHBA==" /><div class="dropzone">
 <div class="dropzone-previews blob-upload-dropzone-previews">
 <p class="dz-message light">
 Attach a file by drag &amp; drop or <a class="markdown-selector" href="#">click to upload</a>
@@ -840,11 +840,11 @@ Attach a file by drag &amp; drop or <a class="markdown-selector" href="#">click 
 <br>
 <div class="dropzone-alerts gl-alert gl-alert-danger gl-mb-5 data" style="display:none"></div>
 <div class="form-group row commit_message-group">
-<label class="col-form-label col-sm-2" for="commit_message-4559c6eea113a52b5a71bd8f880e2b1c">Commit message
+<label class="col-form-label col-sm-2" for="commit_message-4ee91a6cf64cd9deaf5ffb23393a30ff">Commit message
 </label><div class="col-sm-10">
 <div class="commit-message-container">
 <div class="max-width-marker"></div>
-<textarea name="commit_message" id="commit_message-4559c6eea113a52b5a71bd8f880e2b1c" class="form-control gl-form-input js-commit-message" placeholder="Replace fingerprint.fpc.default.so" data-qa-selector="commit_message_field" required="required" rows="3">
+<textarea name="commit_message" id="commit_message-4ee91a6cf64cd9deaf5ffb23393a30ff" class="form-control gl-form-input js-commit-message" placeholder="Replace fingerprint.fpc.default.so" data-qa-selector="commit_message_field" required="required" rows="3">
 Replace fingerprint.fpc.default.so</textarea>
 </div>
 </div>
@@ -870,7 +870,7 @@ A new branch will be created in your fork and a new merge request will be starte
 
 </div>
 
-<script nonce="Ma9EgR/n/0KPP77UeeOLLw==">
+<script nonce="Lt1M5foIzg8nwTW4aw7jag==">
 //<![CDATA[
   window.gl = window.gl || {};
   window.gl.webIDEPath = '/-/ide/project/ItsVixano/proprietary_vendor_xiaomi/edit/lineage-18.1/-/sakura-common/proprietary/vendor/lib64/hw/fingerprint.fpc.default.so'
@@ -893,7 +893,7 @@ A new branch will be created in your fork and a new merge request will be starte
 
 
 
-<script nonce="Ma9EgR/n/0KPP77UeeOLLw==">
+<script nonce="Lt1M5foIzg8nwTW4aw7jag==">
 //<![CDATA[
 if ('loading' in HTMLImageElement.prototype) {
   document.querySelectorAll('img.lazy').forEach(img => {
